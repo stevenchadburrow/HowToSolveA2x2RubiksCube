@@ -29,7 +29,6 @@ Hold the cube so that the yellow is on top, the white is on the bottom.  Perform
 R U R' U R U2 R'
 </code>
 
-
 R = Right side Clockwise
 R' = Right side Counter-Clockwise
 U = Up side Clockwise
@@ -42,7 +41,6 @@ When you finally have the yellow pattern you want, the formula to solve the yell
 <code>
 F R U R' U' F'
 </code>
-
 
 F = Front side Clockwise
 F' = Front side Counter-Clockwise
@@ -60,7 +58,6 @@ Now for the final formula:
 <code>
 L' U R' D2 R U' R' D2 R2
 </code>
-
 
 L' = Left side Counter-Clockwise
 D2 = Down side twice (half turn)

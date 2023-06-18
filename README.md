@@ -4,6 +4,8 @@ I just figured out how to solve a 2x2 Rubik's Cube, and wanted to share.  A good
 
 http://www.rubiksplace.com/cubes/2x2/
 
+If you find that you messed up somewhere, just go back to Step 1.
+
 Step 1: Solve white on one side.
 
 This is the least formulaic step.  I don't know any formulas on how to do it, I just keep playing with it until it works.  Generally I get some whites on one side, but start to change them out until

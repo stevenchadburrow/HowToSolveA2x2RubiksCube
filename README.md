@@ -71,6 +71,7 @@ It might work, it might not.  Repeat the same formula until it you see a complet
 Conclusion:
 
 The first part is just playing around, but after you solve one side, formulas are needed.  Repeating the same formulas is not fast, but it's easier to remember.  I haven't found any particular tricks to
-make it faster, but that wasn't the object to begin with.
+make it faster, but that wasn't the object to begin with.  Memorizing the formulas is fairly easy if you do it a lot, and try to do it without looking at the formulas.  I got a hang of it within a couple
+of hours.
 
 How do you use this to solve a 3x3 Rubik's Cube?  I have no idea! :)

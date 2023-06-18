@@ -1,4 +1,4 @@
-# HowToSolveA2x2RubiksCube
+# HowToSolveThe2x2RubiksCube
 
 I just figured out how to solve a 2x2 Rubik's Cube, and wanted to share.  A good tutorial link is here:
 

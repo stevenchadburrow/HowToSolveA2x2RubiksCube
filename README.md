@@ -31,9 +31,9 @@ Hold the cube so that the yellow is on top, the white is on the bottom.  Perform
 R U R' U R U2 R'
 </code>
 
-R = Right side Clockwise
-R' = Right side Counter-Clockwise
-U = Up side Clockwise
+R = Right side Clockwise,
+R' = Right side Counter-Clockwise,
+U = Up side Clockwise,
 U2 = Up side twice (half turn)
 
 You will get a different pattern of yellows.  Continue to do the exact same formula until you get that desired yellow pattern mentioned above.   It shouldn't take more than six times, so if it's not working
@@ -45,8 +45,8 @@ When you finally have the yellow pattern you want, the formula to solve the yell
 F R U R' U' F'
 </code>
 
-F = Front side Clockwise
-F' = Front side Counter-Clockwise
+F = Front side Clockwise,
+F' = Front side Counter-Clockwise,
 U' = Up side Counter-Clockwise
 
 You will now have all of the whites solved, and the yellows on the top.  You will probably not have a completed cube yet, but that's ok.
@@ -62,8 +62,8 @@ Now for the final formula:
 L' U R' D2 R U' R' D2 R2
 </code>
 
-L' = Left side Counter-Clockwise
-D2 = Down side twice (half turn)
+L' = Left side Counter-Clockwise,
+D2 = Down side twice (half turn),
 R2 = Right side twice (half turn)
 
 It might work, it might not.  Repeat the same formula a few times.  When it is completed, it might not just line up perfectly, so make sure to try to line up like colors as much as possible each time until it you see a completed cube.

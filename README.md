@@ -24,8 +24,9 @@ Where 'Y' is yellow, and 'x' is anything else.   Notice the two yellows on the r
 you get that particular pattern.  
 
 Hold the cube so that the yellow is on top, the white is on the bottom.  Perform these moves in sequence:
-
+<code>
 R U R' U R U2 R'
+</code>
 
 R = Right side Clockwise
 R' = Right side Counter-Clockwise
@@ -36,7 +37,9 @@ You will get a different pattern of yellows.  Continue to do the exact same form
 
 When you finally have the yellow pattern you want, the formula to solve the yellow is very simple:
 
+<code>
 F R U R' U' F'
+</code>
 
 F = Front side Clockwise
 F' = Front side Counter-Clockwise
@@ -51,7 +54,9 @@ in my left hand.  If two are good, I put a bad corner in that same closest-left-
 
 Now for the final formula:
 
+<code>
 L' U R' D2 R U' R' D2 R2
+</code>
 
 L' = Left side Counter-Clockwise
 D2 = Down side twice (half turn)

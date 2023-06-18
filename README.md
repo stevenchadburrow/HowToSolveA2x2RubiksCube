@@ -36,7 +36,8 @@ R' = Right side Counter-Clockwise
 U = Up side Clockwise
 U2 = Up side twice (half turn)
 
-You will get a different pattern of yellows.  Continue to do the exact same formula until you get that desired yellow pattern mentioned above.
+You will get a different pattern of yellows.  Continue to do the exact same formula until you get that desired yellow pattern mentioned above.   It shouldn't take more than six times, so if it's not working
+just rotate the top 90 degrees and try the same formula again a few more times.
 
 When you finally have the yellow pattern you want, the formula to solve the yellow is very simple:
 

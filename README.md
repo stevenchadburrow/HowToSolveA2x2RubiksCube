@@ -13,10 +13,12 @@ Step 2: "Solve" yellow on opposite side.
 
 When your white is solved, there will be one of seven different yellow patterns on the opposite side.  You want a pattern of yellows that look like:
 
+[code]
     x x
 Y | x Y | x
 Y | x Y | x
     x x
+[/code]
     
 Where 'Y' is yellow, and 'x' is anything else.   Notice the two yellows on the right of the bottom, and the two other yellows on the side.  If you do not have that, you need to perform a formula until
 you get that particular pattern.  

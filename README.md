@@ -66,7 +66,7 @@ L' = Left side Counter-Clockwise
 D2 = Down side twice (half turn)
 R2 = Right side twice (half turn)
 
-It might work, it might not.  Repeat the same formula until it you see a completed cube!
+It might work, it might not.  Repeat the same formula a few times.  When it is completed, it might not just line up perfectly, so make sure to try to line up like colors as much as possible each time until it you see a completed cube.
 
 Conclusion:
 
